@@ -54,7 +54,6 @@ def monopoly_with_fourth_tier
         :shortline=>
         {
          :mortgage_value => 800 }
-       }
       }
     }
   }
